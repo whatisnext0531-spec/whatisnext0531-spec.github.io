@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/whatisnext0531-spec/whatisnext0531-spec.github.io.git
+	branch = main
